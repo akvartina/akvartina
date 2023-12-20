@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akvartina
 - 👀 I’m interested in Cognitive Science
-- 🌱 I’m currently learning to code in Unity :D
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to work in Unity and Python
 - 📫 How to reach me akvartina@uni-osnabrueck.de
 
 <!---
