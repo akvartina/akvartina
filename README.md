@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @akvartina
-- 👀 I’m interested in Cognitive Science
-- 🌱 I’m currently learning to work in Unity and Python
-- 📫 How to reach me akvartina@uni-osnabrueck.de
+- 👋 Hi, I’m Ana @akvartina
+- 👀 Cognitive Science and AI
+- 🌱 Languages & Frameworks: Python, C#, Angular, JavaScript
+- 📫 akvartina@uni-osnabrueck.de
 
-<!---
-akvartina/akvartina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Throughout my studies and work experience, I took part in the following projects:
+**[Living Transformation](https://github.com/JasminLWalter/Living-Transformation)** - *Software Developer (Research) Student-Intern*
+>
+>
