@@ -8,8 +8,9 @@ Throughout my studies and work experience, I took part in the following projects
 
 **Halyx.AI - Pilotboard**
 > (private corporate repo)
-> 
+
 > [web-app link](https://pilotboard.halyx.app/)
+
 *Software Developer & QA Engineer (Oct 2025 - May 2026)*
 
 Worked on an AI-integrated web product in a startup environment.
