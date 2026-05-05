@@ -4,7 +4,7 @@
 - 🌱 Languages & Frameworks: Python, C#, Angular, JavaScript
 - 📫 akvartina@uni-osnabrueck.de, ana.k@halyx.ai, kvartina.an@gmail.com
 
-Throughout my studies and work experience, I took part in the following projects:
+Throughout my studies and work experience, I took part in the following external projects:
 
 **Halyx.AI - Pilotboard**
 
@@ -59,6 +59,15 @@ VR experiment environment integrating a bike simulator to assess participant beh
 - Developed the VR experiment platform with a focus on spatial navigation
 - Contributed to experimental design and research paper writing
 - Tech stack: Unity, C#, GitLab
+
+**[OptiVist](https://github.com/R3yman/TactileBraceletExperiment)**
+
+Python-based experiment integrating a tactile bracelet to guide hand movements of visually impaired participants during reaching and grasping tasks.
+
+*Student Software Developer and Experiment Conductor*
+
+- Worked directly with existing code, adapting and modifying it to meet updated experiment requirements
+- Tech stack: Python
 
 **[Study Project - Advanced Experiment Design in Unity](https://github.com/ivanmakesgames/Our_Nightmare1)**
 
