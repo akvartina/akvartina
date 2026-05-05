@@ -7,13 +7,16 @@
 Throughout my studies and work experience, I took part in the following projects:
 
 **Halyx.AI - Pilotboard**
+
+Web-based team planning application featuring core HR functionalities for workforce and schedule management.
+
 > (private corporate repo)
 
 > [web-app link](https://pilotboard.halyx.app/)
 
 *Software Developer & QA Engineer (Oct 2025 - May 2026)*
 
-Worked on an AI-integrated web product in a startup environment.
+- Worked on an AI-integrated web product in a startup environment.
 - Developed and maintained frontend (AngularJS) features
 - Executed functional and regression test plans, identifying bugs and edge cases before deployment
 - Conducted UI/UX analysis and technical benchmarking to support product decisions
@@ -21,20 +24,25 @@ Worked on an AI-integrated web product in a startup environment.
 
 **[Living Transformation](https://github.com/JasminLWalter/Living-Transformation)**
 
+Scientific art project in VR tracking participant gaze and collecting eye-tracking data for behavioural analysis, with a real-time multi-user interaction system.
+
 *Software Developer (Research) Student-Intern (Oct 2023 - Dec 2024)*
 
-Developed an interactive VR environment in Unity (C#) with real-time eye-tracking and multi-user interaction systems; designed and integrated 3D avatars and assets using Blender.
+- Developed an interactive VR environment in Unity (C#) with real-time eye-tracking and multi-user interaction systems; designed and integrated 3D avatars and assets using Blender.
 - Built and maintained the VR application core and user interaction logic
 - Integrated eye-tracking system for behavioural data collection
 - Improved spatial navigation and experimental platform usability
 - Tech stack: Unity, C#, Blender, MakeHuman, Git, GitKraken
 
-**SpaRe: Westbrook x Magdeburg - Reserach Publication**
+**SpaRe: Westbrook x Magdeburg** 
+
+VR experiment environment designed to study participant gaze behaviour during spatial navigation tasks.
+
 > [Research Paper Publication for the respective project](https://www.researchgate.net/figure/Experimental-Setup-and-the-virtual-city-of-Westbrook-a-Participant-in-the-immersive_fig1_397055524)
 
 *Software Developer (Research) Student-Intern (Oct 2023 - Dec 2024)*
 
-Extended and optimised an existing VR experiment in Unity (C#), redesigning the experimental flow and environment to meet updated research requirements.
+- Extended and optimised an existing VR experiment in Unity (C#), redesigning the experimental flow and environment to meet updated research requirements.
 - Redesigned experiment flow and procedure logic to align with updated research protocols
 - Expanded and restructured the VR environment to match the revised experimental design
 - Improved application performance, achieving a significantly higher frame rate
@@ -43,18 +51,22 @@ Extended and optimised an existing VR experiment in Unity (C#), redesigning the 
 
 **[Study Project - Perceptual Enhancement Technologies](https://gitlab.ikw.uni-osnabrueck.de/tnortmann/pet2023)**
 
+VR experiment environment integrating a bike simulator to assess participant behaviour during spatial navigation tasks and evaluate the effectiveness of perceptual enhancement technologies — including visual, auditory, and haptic feedback via a vibration vest.
+
 *Student Software Developer (Oct 2023 – Oct 2024)*
 
-Designed and built a Unity VR environment with a remote bike simulator controller to study human perception of auditory enhancement technology.
+- Designed and built a Unity VR environment with a remote bike simulator controller to study human perception of auditory enhancement technology.
 - Developed the VR experiment platform with a focus on spatial navigation
 - Contributed to experimental design and research paper writing
 - Tech stack: Unity, C#, GitLab
 
 **[Study Project - Advanced Experiment Design in Unity](https://github.com/ivanmakesgames/Our_Nightmare1)**
 
+First-person 3D game developed in Unity, implementing core gameplay mechanics and interaction systems.
+
 *Student Software Developer*
 
-Contributed to the development of a simple first-person 3D game in Unity.
+- Contributed to the development of a simple first-person 3D game in Unity.
 - Implemented object interaction systems and collision behaviour with in-game structures
 - Tech stack: Unity, C#, GitKraken
 
@@ -62,9 +74,9 @@ Contributed to the development of a simple first-person 3D game in Unity.
 
 **[Study Project - Introduction to Unity](https://github.com/ivanmakesgames/Project23)** 
 
+Simple top-down 2D game built in Unity as a foundational exercise in game development
+
 *Student Software Developer*
 
-Contributed to the development of a simple third-person 2D game in Unity.
+- Contributed to the development of a simple third-person 2D game in Unity.
 - Tech stack: Unity, C#, GitKraken
-
-
