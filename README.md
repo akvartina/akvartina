@@ -8,7 +8,7 @@ Throughout my studies and work experience, I took part in the following projects
 
 **Halyx.AI - Pilotboard**
 > (private corporate repo)
-
+> [web-app link](https://pilotboard.halyx.app/)
 *Software Developer & QA Engineer (Oct 2025 - May 2026)*
 
 Worked on an AI-integrated web product in a startup environment.
@@ -26,6 +26,18 @@ Developed an interactive VR environment in Unity (C#) with real-time eye-trackin
 - Integrated eye-tracking system for behavioural data collection
 - Improved spatial navigation and experimental platform usability
 - Tech stack: Unity, C#, Blender, MakeHuman, Git, GitKraken
+
+**SpaRe: Westbrook x Magdeburg - Reserach Publication**
+> [Research Paper Publication for the respective project](https://www.researchgate.net/figure/Experimental-Setup-and-the-virtual-city-of-Westbrook-a-Participant-in-the-immersive_fig1_397055524)
+
+*Software Developer (Research) Student-Intern (Oct 2023 - Dec 2024)*
+
+Extended and optimised an existing VR experiment in Unity (C#), redesigning the experimental flow and environment to meet updated research requirements.
+- Redesigned experiment flow and procedure logic to align with updated research protocols
+- Expanded and restructured the VR environment to match the revised experimental design
+- Improved application performance, achieving a significantly higher frame rate
+- Validated the updated flow through in-person participant testing
+- Tech stack: Unity, C#, Git, GitKraken
 
 **[Study Project - Perceptual Enhancement Technologies](https://gitlab.ikw.uni-osnabrueck.de/tnortmann/pet2023)**
 
