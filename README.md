@@ -12,6 +12,7 @@ Web-based team planning application featuring core HR functionalities for workfo
 
 > (private corporate repo)
 
+> [video: V5 demo](https://youtu.be/Ebrh1seFBss) || 
 > [web-app link](https://pilotboard.halyx.app/)
 
 *Software Developer & QA Engineer (Oct 2025 - May 2026)*
