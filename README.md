@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ana @akvartina
 - 👀 Cognitive Science and AI
-- 💼 Software Developer & QA Engineer
-- 🌱 Languages & Frameworks: Python, C#, Angular, JavaScript
-- 📫 akvartina@uni-osnabrueck.de, ana.k@halyx.ai, kvartina.an@gmail.com
+- 💼 Digital Product Manager, Frontend Software Developer & QA Engineer
+- 🌱 Languages & Frameworks: Python, C#, Angular (TypeScript), JavaScript
+- 📫 akvartina@uni-osnabrueck.de, kvartina.an@gmail.com
 
 Throughout my studies and work experience, I took part in the following external projects:
 
