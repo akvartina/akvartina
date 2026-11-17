@@ -21,7 +21,7 @@ Web-based team planning application featuring core HR functionalities for workfo
 - Developed and maintained frontend (AngularJS) features
 - Executed functional and regression test plans, identifying bugs and edge cases before deployment
 - Conducted UI/UX analysis and technical benchmarking to support product decisions
-- Tech stack: AngularJS, Java, Git, Agile/Scrum
+- Tech stack: Angular (TypeScript), Java, Git, Agile/Scrum
 
 **[Living Transformation](https://github.com/JasminLWalter/Living-Transformation)**
 
